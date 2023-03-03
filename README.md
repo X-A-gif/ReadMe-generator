@@ -1,10 +1,10 @@
-# ter
+# Readme gererator
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
-sad
+generate a read me quiclky
 
 ## Table of Contents
 
@@ -17,26 +17,26 @@ sad
 
 ## Installation
 
-dfggd
+clone the repo run npm install the terminal
 
 ## Usage
 
-sdf
+open git bash in the root directory of the repo and run ""node index.js"
 
 ## Contributing
 
-hfg
+N/A
 
 ## Tests
 
-sdf
+N/A
 
 ## License
 
-Apache License 2.0
+MIT License
 
-    For more information on this license, please visit [https://opensource.org/licenses/Apache-2.0](https://opensource.org/licenses/Apache-2.0).
+    For more information on this license, please visit [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT).
 
 ## Questions
 
-If you have any questions or issues, please contact sdf at dfhg.
+If you have any questions or issues, please contact X-A-gif at N/A.
